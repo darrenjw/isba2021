@@ -29,7 +29,7 @@ output: beamer_presentation
 
 * All of the languages on the previous slide are fundamentally *imperative* programming languages, mimicking closely the way computer processors actually operate
 * There have been huge advances in computing science in the decades since these languages were created, and many new, different and better programming languages have been created
-* Although *functional* programming (FP) languages are not new, there has been a large resergence of interest in functional languages in the last decade or two, as people have begun to appreciate the advantages of the functional approach, especially in the context of developing large, scalable software systems, and the ability to take advantage of modern computing hardware
+* Although *functional* programming (FP) languages are not new, there has been a large resurgence of interest in functional languages in the last decade or two, as people have begun to appreciate the advantages of the functional approach, especially in the context of developing large, scalable software systems, and the ability to take advantage of modern computing hardware
 * There has also been a swing away from *dynamically typed* programming languages back to *statically typed* languages
 
 ## Functional programming
@@ -40,7 +40,7 @@ output: beamer_presentation
 * This connection between typed FP languages and CCCs enables the borrowing of ideas from category theory into FP
 * Category theory concepts such as *functors*, *monads* and *comonads* are useful for simplifying code that would otherwise be somewhat cumbersome to express in pure FP languages
 
-## Concurency, parallelism, distribution, state
+## Concurrency, parallelism, distribution, state
 
 * Modern computing platforms feature processors with many cores, and possibly many such processors - parallel programming is required to properly exploit this
 * Most of the notorious difficulties associated with parallel programming revolve around *shared mutable state*
@@ -57,6 +57,24 @@ output: beamer_presentation
 * It also makes code much easier to *test* for correct behaviour
 * Category theory is in many ways the mathematical study of (associative) composition, and this leads to useful insights
 
+## Bayesian computation
+
+* *map-reduce* operations on *functorial* data collections can trivially parallelise (and distribute):
+    * Likelihood evaluations for big data
+	* ABC algorithms
+	* SMC re-weighting and re-sampling
+* Gibbs sampling algorithms can be implemented as *cobind* operations on an appropriately coloured (parallel) *comonadic* conditional independence graph
+* *Probabilistic programming languages* (PPLs) can be implemented as embedded domain specific languages (DSLs) trivially using *for/do* syntax for *monadic composition* in conjunction with *probability monads*
+* Automatic differentiation (AD) for compute graphs is particularly natural in functional languages, facilitating gradient-based algorithms such as MALA, HMC and PDMP
+
+## Summary
+
+* All of the programming languages commonly used for Bayesian computation are poorly suited to the task
+* Functional programming languages borrowing ideas from *Cartesian closed categories* provide an excellent foundation for scalable modelling and computation
+    * Concepts from category theory, such as *functors*, *monads* and *comonads* provide a useful framework for organising computation
+* Functional languages are particularly elegant and powerful for probabilistic and differentiable programming
+* This isn't about one particular programming language (eg. *Scala* or *Haskell*), or language syntax - it is about a class of languages:
+    * Statically typed compiled functional programming languages with type inference and higher-kinded types
 
 ## Further information
 

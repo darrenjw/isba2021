@@ -4,7 +4,7 @@
 
 ## A compositional approach to Bayesian computation
 
-* Talk: **video** and **slides**
+* Talk: **video** and [slides](Talk/talk-PREBUILT.pdf)
 * Taster **slides**
 * A longer (2 hour) [talk](https://www.youtube.com/watch?v=QcLtA4TTzh8) covering similar ground in more detail
 
