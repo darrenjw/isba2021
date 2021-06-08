@@ -22,7 +22,6 @@ category for higher-order probability theory](https://dl.acm.org/doi/10.5555/332
 * Ścibior, A., Kammar, O., Gharamani, Z. (2018) [Functional programming
 for modular Bayesian inference](https://dl.acm.org/doi/10.1145/3236778), Proc. ACM Prog. Lang., 2(ICFP): 83.
 * van der Meulen, F., Schauer, M. (2021) [Automatic Backward Filtering Forward Guiding for Markov processes and graphical models](https://arxiv.org/abs/2010.03509), arXiv, 2010.0350.
-
 * **List of papers** on [category theory for machine learning](https://github.com/bgavran/Category_Theory_Machine_Learning)
 
 ### Languages
