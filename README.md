@@ -11,7 +11,7 @@
 ### Papers
 
 * Law, J. & Wilkinson, D.J. (2019) [Functional probabilistic programming for scalable Bayesian modelling](https://arxiv.org/abs/1908.02062), in submission.
-* Law, J. & Wilkinson, D.J. (2018) [Composable models for online Bayesian analysis of streaming data](https://doi.org/10.1007/s11222-017-9783-1), Statistics and Computing, 28(6): 1119-1137. [arXiv](https://arxiv.org/abs/1609.00635)
+* Law, J. & Wilkinson, D.J. (2018) [Composable models for online Bayesian analysis of streaming data](https://doi.org/10.1007/s11222-017-9783-1), Statistics and Computing, 28(6): 1119-1137.
 
 #### Other interesting papers
 
