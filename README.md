@@ -35,6 +35,7 @@ for modular Bayesian inference](https://dl.acm.org/doi/10.1145/3236778), Proc. A
 
 * [My website(s)](https://darrenjw.github.io/)
 * [Scala for statistical computing and data science](https://github.com/darrenjw/scala-course/blob/master/StartHere.md) free online course
+* [Some category theory for FP links](https://github.com/darrenjw/fps-course/blob/master/Links.md)
 * [My blog](https://darrenjw.wordpress.com/) - relevant posts include:
     * [First steps with monads in Scala](https://darrenjw.wordpress.com/2016/04/15/first-steps-with-monads-in-scala/)
     * [Comonads for scientific and statistical computing in Scala](https://darrenjw.wordpress.com/2018/01/22/comonads-for-scientific-and-statistical-computing-in-scala/)

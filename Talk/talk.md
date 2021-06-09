@@ -32,6 +32,8 @@ output: beamer_presentation
 * Although *functional* programming (FP) languages are not new, there has been a large resurgence of interest in functional languages in the last decade or two, as people have begun to appreciate the advantages of the functional approach, especially in the context of developing large, scalable software systems, and the ability to take advantage of modern computing hardware
 * There has also been a swing away from *dynamically typed* programming languages back to *statically typed* languages
 
+# Compositionality and functional programming
+
 ## Functional programming
 
 * FP languages emphasise the use of *immutable* data, *pure, referentially transparent functions*, and *higher order functions*
@@ -66,6 +68,8 @@ output: beamer_presentation
 * Gibbs sampling algorithms can be implemented as *cobind* operations on an appropriately coloured (parallel) *comonadic* conditional independence graph
 * *Probabilistic programming languages* (PPLs) can be implemented as embedded domain specific languages (DSLs) trivially using *for/do* syntax for *monadic composition* in conjunction with *probability monads*
 * Automatic differentiation (AD) for compute graphs is particularly natural in functional languages, facilitating gradient-based algorithms such as MALA, HMC and PDMP
+
+# Conclusion
 
 ## Summary
 
