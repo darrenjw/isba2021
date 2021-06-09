@@ -9,14 +9,6 @@ output: beamer_presentation
 
 # Introduction
 
-
-## Additional materials (will show again at the end)
-
-[`github.com/darrenjw/isba2021`](https://github.com/darrenjw/isba2021)
-
-![QR code](qr-code-s.png)
-
-
 ## Background
 
 * For non-trivial problems, Bayesian computation typically relies on computationally intensive methods, such as MCMC, SMC or ABC
