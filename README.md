@@ -1,6 +1,6 @@
 # isba2021
 
-### Material relating to my ISBA 2021 presentation
+### Material relating to my [ISBA 2021](https://events.stat.uconn.edu/ISBA2021/) presentation
 
 ## A compositional approach to Bayesian computation
 
