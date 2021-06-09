@@ -30,6 +30,7 @@ for modular Bayesian inference](https://dl.acm.org/doi/10.1145/3236778), Proc. A
 * [Haskell](https://www.haskell.org/) - old, lazy functional language
 * [OCaml](https://ocaml.org/) - interesting language with good FP support
 * [Rust](https://www.rust-lang.org/) - not functional, but interesting anyway
+* [Dex](https://github.com/google-research/dex-lang) - experimental FP language for differentiable array programming, with ML applications in mind
 
 ### Other links
 
