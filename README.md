@@ -4,7 +4,7 @@
 
 ## A compositional approach to Bayesian computation
 
-* Talk: [video](https://www.youtube.com/watch?v=9PKT2YUV_ps) and [slides](Talk/talk-PREBUILT.pdf)
+* Talk: [video](https://www.youtube.com/watch?v=9PKT2YUV_ps), [slides](Talk/talk-PREBUILT.pdf), [markdown](Talk/talk.md)
 * Taster **slides**
 * A longer (2 hour) [talk](https://www.youtube.com/watch?v=QcLtA4TTzh8) covering similar ideas, but in more detail, with code examples (in Scala)
 
