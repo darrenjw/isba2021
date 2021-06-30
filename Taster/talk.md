@@ -38,7 +38,7 @@ output: beamer_presentation
 * *map-reduce* operations on *functorial* data collections can trivially parallelise (and distribute):
     * Likelihood evaluations for big data
 	* ABC algorithms
-	* SMC re-weighting and re-sampling
+	* SMC particle propagation, re-weighting and re-sampling
 * Gibbs sampling algorithms can be implemented as *cobind* operations on an appropriately coloured (parallel) *comonadic* conditional independence graph
 * *Probabilistic programming languages* (PPLs) can be implemented as embedded domain specific languages (DSLs) trivially using *for/do* syntax for *monadic composition* in conjunction with *probability monads*
 * Automatic differentiation (AD) for compute graphs is particularly natural in functional languages, facilitating gradient-based algorithms such as MALA, HMC and PDMP
