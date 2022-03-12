@@ -5,7 +5,7 @@
 ## A compositional approach to Bayesian computation
 
 * Talk: [video](https://www.youtube.com/watch?v=9PKT2YUV_ps), [slides](Talk/talk-PREBUILT.pdf), [markdown](Talk/talk.md)
-* A longer (2 hour) [talk](https://www.youtube.com/watch?v=QcLtA4TTzh8) (and [slides](https://www.staff.ncl.ac.uk/d.j.wilkinson/teaching/apts-sc/ctfp.pdf)) covering similar ideas, but in more detail, with code examples (in Scala)
+* A longer (2 hour) [talk](https://www.youtube.com/watch?v=QcLtA4TTzh8) (and [slides](https://darrenjw.github.io/work/teaching/apts-sc/ctfp.pdf)) covering similar ideas, but in more detail, with code examples (in Scala)
 
 ### Papers
 
